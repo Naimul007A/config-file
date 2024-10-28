@@ -4,7 +4,7 @@ add_newline = false
 
 #[package]
 #disabled = true
-
+#https://www.nerdfonts.com/cheat-sheet icon search ghost
 [character]
 success_symbol = '[󰊠 ](bold #cba6f7)[󰊠 ](bold #f2cdcd)[󰊠 ](bold #b4befe)[ ](bold #a6e3a1)'
 error_symbol = '[󰊠 ](bold #cba6f7)[󰊠 ](bold #f2cdcd)[󰊠 ](bold #b4befe)[ ](bold #f38ba8)'
